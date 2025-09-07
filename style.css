@@ -1,0 +1,28 @@
+#one {
+  color: blue;
+  background-color: yellow;
+}
+#two {
+  color: red;
+  background-color: yellow;
+}
+
+#divone {
+  color: orange;
+  background-color: black;
+  font-size: 50px;
+  font-family: "Dancing Script", cursive;
+  /* font-family: 'Courier New', Courier, monospace; */
+  text-align: center;
+}
+#divtwo {
+  border: 22px solid red;
+}
+#para1 {
+  border: 2px solid black;
+  padding: 30px;
+  padding-left: 100px;
+  padding-left: 200px;
+  padding-left: 300px;
+  margin-top: 300px;
+}

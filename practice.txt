@@ -1,0 +1,27 @@
+<!-- Session 5  -->
+
+Forms (The Basics)
+<form> tag, <label>, name, id
+required attribute
+Form Input Types
+Text (text)
+Color (color)
+Range (range)
+File (file)
+Radio Buttons (radio)
+Checkboxes (checkbox)
+
+<!-- Dropdown Lists -->
+<select> and <option>
+
+Text Formatting
+<!-- Paragraph (p) -->
+Bold (b) vs. Strong 
+Italic (i)
+
+<!-- Interactive Elements -->
+Details & Summary (details and summary)
+
+<!-- Multimedia -->
+Video (video)
+Audio (audio)

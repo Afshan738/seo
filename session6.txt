@@ -1,0 +1,30 @@
+CSS - Session 6 of frontend development course
+
+What is CSS?
+HTML vs CSS Comments
+
+Ways to Add CSS
+1)Inline CSS
+2)Internal CSS
+3)External CSS
+
+CSS Priority (The Cascade)
+
+CSS Selectors
+* Element Selector
+* Class Selector
+* ID Selector
+
+Block vs. Inline Elements
+
+=>Basic CSS Properties
+color
+background-color
+font-size
+font-family
+text-align
+
+The Box Model Introduction
+border
+padding
+margin
