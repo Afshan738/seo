@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  width: 80%;
+  margin-bottom: 30px;
+  background-color: #f0f0f0;
+  border: 2px solid #333;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: crimson;
+  color: white;
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.space-around {
+  justify-content: space-around;
+}
+
+.space-evenly {
+  justify-content: space-evenly;
+}

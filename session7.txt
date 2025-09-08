@@ -1,0 +1,15 @@
+parent and child elements concept
+
+how to handle these through css
+
+concept of class selector
+
+
+
+designing a box
+1)border-radius
+2)float explanation 
+3)disadvantage of using margin
+4)width and height properties
+
+
